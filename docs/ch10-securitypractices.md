@@ -97,3 +97,4 @@ When possible, always use encryption. This includes **Data at Rest** (data store
 
 # Summary
 This lesson was focused on security best practices. It looked at device hardening, which included keeping the software up-to-date, using passwords, and changing default passwords. Next was protecting against network threats using antivirus and anti-malware software and software firewalls. Then user account management which meant clearly defining which user accounts to use and disabling accounts that are not in use such as guest accounts. Finally, we concluded with encryption of the device’s files and data packets, and the data packets being transported in its network. 	
+ test
